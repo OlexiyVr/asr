@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg, rgba(241, 255, 0, 0.29184173669467783) 0%, rgba(29, 192, 253, 0) 51%, rgba(69, 97, 252, 0.303046218487395) 100%);
+}
+
+form{
+    margin-top: 20px;
+display: flex;
+justify-content: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+li{
+    padding: 10px;
+}
